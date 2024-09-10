@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');body{
+    padding: 50px;
+    background-image: url(21-digestif-drinks.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+}
+img{
+    height: 100px;
+}
+h1{
+    color: aliceblue;
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+p{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: "Playpen Sans", cursive;
+}
+tr{
+    font-size: 20px;
+    font-family: "Playpen Sans", cursive;
+}
